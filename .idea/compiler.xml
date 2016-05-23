@@ -22,10 +22,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="bfd-core" />
         <module name="bfd-ui" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="bfd-core" target="1.5" />
       <module name="bfd-ui" target="1.5" />
       <module name="BitForestDownloader" target="1.5" />
     </bytecodeTargetLevel>

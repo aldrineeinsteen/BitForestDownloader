@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BitForestDownloader.iml" filepath="$PROJECT_DIR$/BitForestDownloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bfd-core/bfd-core.iml" filepath="$PROJECT_DIR$/bfd-core/bfd-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/bfd-ui/bfd-ui.iml" filepath="$PROJECT_DIR$/bfd-ui/bfd-ui.iml" />
     </modules>
   </component>
