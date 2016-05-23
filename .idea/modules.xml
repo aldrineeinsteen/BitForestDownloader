@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BitForestDownloader.iml" filepath="$PROJECT_DIR$/BitForestDownloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bfd-ui/bfd-ui.iml" filepath="$PROJECT_DIR$/bfd-ui/bfd-ui.iml" />
+    </modules>
+  </component>
+</project>
